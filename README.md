@@ -8,4 +8,8 @@ The bank wants to build a model that will help them identify the potential custo
 ### Business Objective:
 The outcome is to explore the data to understand the variables and the impact they have had on Personal Loans so that the bank can leverage the insights to reach out to the right customers who have a higher probability of purchasing the loan.
 
+### Approach:
+The collected data is cleaned through various data wrangling techniques available in MS Excel and the resulted clean data is used to perform further Exploratory Data Analysis and brought out some of the valuable insights which the bank can implicate in their business to reach out to the right customer base in order to increase their probability of purchasing the loan.
+
+
 ### Tool Usee: Microsoft Excel
